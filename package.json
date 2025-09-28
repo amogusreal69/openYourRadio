@@ -1,0 +1,40 @@
+{
+  "name": "openyourradio",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "radio": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "radio player",
+    "radio",
+    "radio browser",
+    "radio browser api",
+    "playback",
+    "api",
+    "radioplayer",
+    "hackclub",
+    "siege"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lolo280374/openyourradio.git"
+  },
+  "author": "lolodotzip",
+  "license": "MIT",
+  "description": "grab your favorite player, your favorite radio picks, and let's get tuned-in!",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "blessed": "^0.1.81",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.1",
+    "enquirer": "^2.4.1",
+    "open": "^10.2.0",
+    "radio-browser": "^2.2.3",
+    "radio-browser-api": "^6.0.3"
+  }
+}
