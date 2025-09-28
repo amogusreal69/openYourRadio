@@ -14,11 +14,11 @@ grab your favorite player, radios, and let's get tuned in! free, and forever! th
 	showcase (Windows/Linux)
 </h1>
 
-[windows_showcase.webm](https://github.com/user-attachments/assets/60b5c600-42b0-49cc-a76c-c99f5bfdceb5)
-<br>if for some reason viewing this video dosen't work, please click [here.](https://github.com/Lolo280374/openYourRadio/blob/main/windows_showcase.mp4)
+[windows_showcase.webm](https://github.com/Lolo280374/openYourRadio/raw/refs/heads/main/windows_showcase.webm)
+<br>if for some reason viewing this video dosen't work, please click [here.](https://github.com/user-attachments/assets/90a97593-eda3-4d0c-94f3-56c01d697075)
 
-[linux_showcase.webm](https://github.com/user-attachments/assets/fad0abf1-0db3-43a6-beab-a036f9780bb0)
-<br>if for some reason viewing this video dosen't work, please click [here.](https://github.com/Lolo280374/openYourRadio/blob/main/linux_showcase.mp4)
+[linux_showcase.webm](https://github.com/Lolo280374/openYourRadio/raw/refs/heads/main/linux_showcase.webm)
+<br>if for some reason viewing this video dosen't work, please click [here.](https://github.com/user-attachments/assets/f23639af-1c61-401b-97bc-a264d509589d)
 
 ## table of contents
 
