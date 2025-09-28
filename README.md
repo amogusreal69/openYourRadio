@@ -6,6 +6,10 @@
 <a href="#npm-linux-macos-windows"><img src="https://img.shields.io/badge/os-windows-brightgreen"></a>
 <br></p>
 
+<p align="center"><br><a href="https://www.npmjs.com/package/openyourradio" title="npm downloads stats"><img src="https://img.shields.io/npm/dt/openyourradio" alt="npm downloads 
+stats"></a>
+<a href="https://www.npmjs.com/package/openyourradio" title="npm version"><img src="https://img.shields.io/npm/v/openyourradio" alt="npm version"></a></p>
+
 <h3 align="center">
 grab your favorite player, radios, and let's get tuned in! free, and forever! this tool gathers data from <a href="https://www.radio-browser.info/">Radio Browser API.</a>
 </h3>
