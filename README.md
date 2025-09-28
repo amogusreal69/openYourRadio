@@ -14,6 +14,8 @@ grab your favorite player, radios, and let's get tuned in! free, and forever! th
 	showcase (Windows/Linux)
 </h1>
 
+to view the project showcases, please click on one of the two video avalaible (Windows/Linux), to view the video itself. 
+
 <a href="https://github.com/user-attachments/assets/90a97593-eda3-4d0c-94f3-56c01d697075">
   <img src="https://github.com/user-attachments/assets/db90ecda-2951-4801-b71f-da80196e9fd1" 
        alt="Project showcase on Windows" 
