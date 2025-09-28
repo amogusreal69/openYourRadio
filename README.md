@@ -81,7 +81,7 @@ here's a list of commands, organized by category:
 ### npm: Linux, macOS, Windows
 you can install this program by simply getting it from npm:
 ```sh
-npm install -g openYourRadio
+npm install -g openyourradio
 radio -V
 ```
 
@@ -90,8 +90,8 @@ to install from source, you must start by making sure you have git, nodeJS, and 
 then, start by cloning the repository:
 
 ```sh
-git clone https://github.com/Lolo280374/openYourRadio.git
-cd openYourRadio
+git clone https://github.com/Lolo280374/openyourradio.git
+cd openyourradio
 ```
 
 you may then install the dependencies, and link the package to your system:
@@ -111,7 +111,7 @@ radio -V
 ## uninstall
 to uninstall, you can simply run the following:
 ```sh
-npm uninstall openYourRadio
+npm uninstall openyourradio
 ```
 
 ## reporting issues
